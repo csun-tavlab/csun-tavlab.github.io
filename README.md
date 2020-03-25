@@ -1,37 +1,60 @@
-## Welcome to GitHub Pages
+![logo](colour_500.png)
 
-You can use the [editor on GitHub](https://github.com/csun-tavlab/csun-tavlab.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Welcome to the Testing and Validation lab!
+We are concerned primarily with software testing, validation, and verification; that is, finding bugs in code and making software more robust.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Publications
 
-### Markdown
+<ul>
+  <li>
+    <b>
+      MiMIs: Simple, Efficient, and Fast Bounded-Exhaustive Test Case Generators
+    </b>
+    <br />
+    Kyle Dewey, Shant Hairapetian, Miroslav Gavrilov
+    <br />
+    International Conference on Software Testing, Verification and Validation (ICST), 2020 (to appear)
+  </li>
+  <li>
+    <b>
+      <a href="https://dl.acm.org/citation.cfm?id=3322256">
+        Bouncer: Static Program Analysis in Hardware
+      </a>
+    </b>
+    <br />
+    Joseph McMahan, Michael Christensen, Kyle Dewey, Ben Hardekopf, Timothy Sherwood
+    <br />
+    International Symposium on Computer Architecture (ISCA), 2019
+  </li>
+</ul>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# People
 
-```markdown
-Syntax highlighted code block
+Lab head: [Prof. Kyle Dewey](https://kyledewey.github.io/)
 
-# Header 1
-## Header 2
-### Header 3
+## Masters Students ##
 
-- Bulleted
-- List
+- [Brian McClelland](https://github.com/bmcclelland)
+- [Michael Munje](https://michaelmunje.com/about/)
+- [Edward Olmos](https://www.linkedin.com/in/edward-olmos/)
+- [Eduardo Preciado](https://www.linkedin.com/in/eduardopreciado/)
 
-1. Numbered
-2. List
+## Undergraduates ##
 
-**Bold** and _Italic_ and `Code` text
+- Joshua Alvarado
+- Alisiya Balayan
+- Geovanni Bisono
+- Kate Go
+- [Kavya Manohar](https://github.com/Kavya-Manohar)
+- Meyer Millman
+- [Daniel Tellier](https://www.linkedin.com/in/daniel-tellier-210ab3a4/)
 
-[Link](url) and ![Image](src)
-```
+## Past Students ##
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/csun-tavlab/csun-tavlab.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [Hekmat Barbar (BS)](https://www.linkedin.com/in/hekmat-barbar-26652282/)
+- [Angelica Flores (BS)](https://www.linkedin.com/in/angelicagflores/)
+- [Mario Garcia (BS)](https://www.linkedin.com/in/mario-garcia-61a222171/)
+- [Liad Golan (BS)](https://www.linkedin.com/in/liadgolan/)
+- [Shant Hairapetian (BS)](https://www.linkedin.com/in/shant-hairapetian-27b498166/)
+- Victor Pineda
+- [Alexis Siguenza (BS)](https://www.linkedin.com/in/alexis-siguenza-763bb0172/)
