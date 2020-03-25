@@ -1,7 +1,7 @@
 ![logo](colour_500.png)
 
 Welcome to the Testing and Validation lab!
-We are concerned primarily with software testing, validation, and verification; that is, finding bugs in code and making software more robust.
+We are concerned primarily with software testing, validation, and verification; that is, finding bugs and making software more robust.
 
 # Publications
 
