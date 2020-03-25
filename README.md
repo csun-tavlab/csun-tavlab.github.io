@@ -39,7 +39,7 @@ Lab head: [Prof. Kyle Dewey](https://kyledewey.github.io/)
 - [Edward Olmos](https://www.linkedin.com/in/edward-olmos/)
 - [Eduardo Preciado](https://www.linkedin.com/in/eduardopreciado/)
 
-## Undergraduates ##
+## Undergraduate Students ##
 
 - Joshua Alvarado
 - Alisiya Balayan
