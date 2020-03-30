@@ -56,5 +56,5 @@ Lab head: [Prof. Kyle Dewey](https://kyledewey.github.io/)
 - [Mario Garcia (BS)](https://www.linkedin.com/in/mario-garcia-61a222171/)
 - [Liad Golan (BS)](https://www.linkedin.com/in/liadgolan/)
 - [Shant Hairapetian (BS)](https://www.linkedin.com/in/shant-hairapetian-27b498166/)
-- Victor Pineda
+- Victor Pineda (BS)
 - [Alexis Siguenza (BS)](https://www.linkedin.com/in/alexis-siguenza-763bb0172/)
