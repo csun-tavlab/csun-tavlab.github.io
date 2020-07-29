@@ -8,6 +8,15 @@ We are concerned primarily with software testing, validation, and verification; 
 <ul>
   <li>
     <b>
+      A Practical, Principled Measure of Fuzzer Appeal: A Preliminary Study
+    </b>
+    <br />
+    Miroslav Gavrilov, <b>Kyle Dewey</b>, Alex Groce, Davina Zamanzadeh, Ben Hardekopf
+    <br />
+    International Conference on Software Quality, Reliability, and Security (QRS), 2020 (to appear)
+  </li>
+  <li>
+    <b>
       MiMIs: Simple, Efficient, and Fast Bounded-Exhaustive Test Case Generators
     </b>
     <br />
