@@ -11,7 +11,7 @@ We are concerned primarily with software testing, validation, and verification; 
       A Practical, Principled Measure of Fuzzer Appeal: A Preliminary Study
     </b>
     <br />
-    Miroslav Gavrilov, <b>Kyle Dewey</b>, Alex Groce, Davina Zamanzadeh, Ben Hardekopf
+    Miroslav Gavrilov, Kyle Dewey, Alex Groce, Davina Zamanzadeh, Ben Hardekopf
     <br />
     International Conference on Software Quality, Reliability, and Security (QRS), 2020 (to appear)
   </li>
