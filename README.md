@@ -53,9 +53,12 @@ Lab head: [Prof. Kyle Dewey](https://kyledewey.github.io/)
 - Joshua Alvarado
 - Alisiya Balayan
 - Geovanni Bisono
+- [Simran Gill](https://www.linkedin.com/in/simran-k-gill/)
 - Kate Go
 - [Kavya Manohar](https://github.com/Kavya-Manohar)
 - Meyer Millman
+- [Nuelbella Sandoval](https://www.linkedin.com/in/nuelbella-sandoval-ba184b169)
+- [Frank Serdenia](http://www.linkedin.com/in/frankjosephserdenia)
 - [Daniel Tellier](https://www.linkedin.com/in/daniel-tellier-210ab3a4/)
 
 ## Past Students ##
