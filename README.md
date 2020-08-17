@@ -17,7 +17,9 @@ We are concerned primarily with software testing, validation, and verification; 
   </li>
   <li>
     <b>
-      MiMIs: Simple, Efficient, and Fast Bounded-Exhaustive Test Case Generators
+      <a href="https://ieeexplore.ieee.org/document/9159050">
+        MiMIs: Simple, Efficient, and Fast Bounded-Exhaustive Test Case Generators
+      </a>
     </b>
     <br />
     Kyle Dewey, Shant Hairapetian, Miroslav Gavrilov
