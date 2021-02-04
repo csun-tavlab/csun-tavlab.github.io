@@ -61,6 +61,7 @@ Lab head: [Prof. Kyle Dewey](https://kyledewey.github.io/)
 - Kate Go
 - [Kavya Manohar](https://github.com/Kavya-Manohar)
 - Meyer Millman
+- [Eileen Quiroz](https://www.linkedin.com/in/eileen-quiroz-084638170)
 - [Nuelbella Sandoval](https://www.linkedin.com/in/nuelbella-sandoval-ba184b169)
 - [Frank Serdenia](http://www.linkedin.com/in/frankjosephserdenia)
 - [Daniel Tellier](https://www.linkedin.com/in/daniel-tellier-210ab3a4/)
