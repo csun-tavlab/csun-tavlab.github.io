@@ -8,12 +8,14 @@ We are concerned primarily with software testing, validation, and verification; 
 <ul>
   <li>
     <b>
-      A Practical, Principled Measure of Fuzzer Appeal: A Preliminary Study
+      <a href="https://ieeexplore.ieee.org/document/9282794">
+        A Practical, Principled Measure of Fuzzer Appeal: A Preliminary Study
+      </a>
     </b>
     <br />
     Miroslav Gavrilov, Kyle Dewey, Alex Groce, Davina Zamanzadeh, Ben Hardekopf
     <br />
-    International Conference on Software Quality, Reliability, and Security (QRS), 2020 (to appear)
+    International Conference on Software Quality, Reliability, and Security (QRS), 2020
   </li>
   <li>
     <b>
