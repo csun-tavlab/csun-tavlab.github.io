@@ -7,6 +7,13 @@ We are concerned primarily with software testing, validation, and verification; 
 
 <ul>
   <li>
+    <b>Towards a Systems Programming Language Designed for Hierarchical State Machines</b>
+    <br />
+    Brian McClelland, Daniel Tellier, Meyer Millman, Kate Beatrix Go, Alice Balayan, Michael J Munje, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
+    <br />
+    International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021 (to appear)
+  </li>
+  <li>
     <b>
       <a href="https://ieeexplore.ieee.org/document/9282794">
         A Practical, Principled Measure of Fuzzer Appeal: A Preliminary Study
