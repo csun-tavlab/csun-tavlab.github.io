@@ -7,11 +7,15 @@ We are concerned primarily with software testing, validation, and verification; 
 
 <ul>
   <li>
-    <b>Towards a Systems Programming Language Designed for Hierarchical State Machines</b>
+    <b>
+      <a href="http://www.havelund.com/Publications/smc-it-2021-proteus.pdf">
+        Towards a Systems Programming Language Designed for Hierarchical State Machines
+      </a>
+    </b>
     <br />
     Brian McClelland, Daniel Tellier, Meyer Millman, Kate Beatrix Go, Alice Balayan, Michael J Munje, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
     <br />
-    International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021 (to appear)
+    International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021
   </li>
   <li>
     <b>
