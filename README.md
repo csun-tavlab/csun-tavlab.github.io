@@ -8,6 +8,46 @@ We are concerned primarily with software testing, validation, and verification; 
 <ul>
   <li>
     <b>
+      Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
+    </b>
+    <br />
+    Sarah Canto Hyatt, <b>Kyle Dewey</b>
+    <br />
+    IEEE International Conference on Software Testing, Verification and Validation (ICST), 2025 (to appear)
+    </li>
+    <li>
+      <b>
+        MLGTT: An Open-Source Tool to Generate Camera-Relative Ground Truth for Monocular Localization
+      </b>
+      <br />
+      Jorge Enriquez, Tu-Hoa Pham, Philip Bailey, <b>Kyle Dewey</b>
+      <br />
+      IEEE Aerospace Conference (AeroConf), 2025 (to appear)
+    </li>
+    <li>
+        <b>
+          <a href="https://dl.acm.org/doi/10.1145/3586046">
+            Aliasing Limits on Translating C to Safe Rust
+          </a>
+        </b>
+        <br />
+        Mehmet Emre, Peter Boyland, Aesha Parekh, Ryan Schroeder, <b>Kyle Dewey</b>, and Ben Hardekopf
+        <br />
+        ACM Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2023
+      </li>
+  <li>
+    <b>
+      <a href="https://dl.acm.org/doi/10.1145/3485498">
+        Translating C to Safer Rust
+      </a>
+    </b>
+    <br />
+    Mehmet Emre, Ryan Schroeder, <b>Kyle Dewey</b>, Ben Hardekopf
+    <br />
+    ACM Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2021
+  </li>
+  <li>
+    <b>
       <a href="http://www.havelund.com/Publications/smc-it-2021-proteus.pdf">
         Towards a Systems Programming Language Designed for Hierarchical State Machines
       </a>
@@ -15,7 +55,7 @@ We are concerned primarily with software testing, validation, and verification; 
     <br />
     Brian McClelland, Daniel Tellier, Meyer Millman, Kate Beatrix Go, Alice Balayan, Michael J Munje, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
     <br />
-    International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021
+    IEEE International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021
   </li>
   <li>
     <b>
@@ -26,7 +66,7 @@ We are concerned primarily with software testing, validation, and verification; 
     <br />
     Miroslav Gavrilov, Kyle Dewey, Alex Groce, Davina Zamanzadeh, Ben Hardekopf
     <br />
-    International Conference on Software Quality, Reliability, and Security (QRS), 2020
+    IEEE International Conference on Software Quality, Reliability, and Security (QRS), 2020
   </li>
   <li>
     <b>
@@ -37,7 +77,7 @@ We are concerned primarily with software testing, validation, and verification; 
     <br />
     Kyle Dewey, Shant Hairapetian, Miroslav Gavrilov
     <br />
-    International Conference on Software Testing, Verification and Validation (ICST), 2020 (to appear)
+    IEEE International Conference on Software Testing, Verification and Validation (ICST), 2020
   </li>
   <li>
     <b>
@@ -48,7 +88,7 @@ We are concerned primarily with software testing, validation, and verification; 
     <br />
     Joseph McMahan, Michael Christensen, Kyle Dewey, Ben Hardekopf, Timothy Sherwood
     <br />
-    International Symposium on Computer Architecture (ISCA), 2019
+    ACM/IEEE International Symposium on Computer Architecture (ISCA), 2019
   </li>
 </ul>
 
