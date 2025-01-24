@@ -3,7 +3,7 @@
 Welcome to the Testing and Validation lab!
 We are concerned primarily with software testing, validation, and verification; that is, finding bugs and making software more robust.
 The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
-(Possibly former) CSUN student co-authors are shown below in <b>bold</b>.
+(Possibly former) CSUN student co-authors are shown below in <i>italics</i>.
 
 # Publications
 
@@ -13,7 +13,7 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
       Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
     </b>
     <br />
-    <b>Sarah Canto Hyatt</b>, Kyle Dewey
+    <i>Sarah Canto Hyatt</i>, Kyle Dewey
     <br />
     IEEE International Conference on Software Testing, Verification and Validation (ICST), 2025 (to appear)
     </li>
@@ -22,7 +22,7 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
         MLGTT: An Open-Source Tool to Generate Camera-Relative Ground Truth for Monocular Localization
       </b>
       <br />
-      <b>Jorge Enriquez</b>, Tu-Hoa Pham, Philip Bailey, Kyle Dewey
+      <i>Jorge Enriquez</i>, Tu-Hoa Pham, Philip Bailey, Kyle Dewey
       <br />
       IEEE Aerospace Conference (AeroConf), 2025 (to appear)
     </li>
@@ -55,7 +55,7 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
       </a>
     </b>
     <br />
-    <b>Brian McClelland</b>, <b>Daniel Tellier</b>, <b>Meyer Millman</b>, <b>Kate Beatrix Go</b>, <b>Alice Balayan</b>, <b>Michael J Munje</b>, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
+    <i>Brian McClelland</i>, <i>Daniel Tellier</i>, <i>Meyer Millman</i>, <i>Kate Beatrix Go</i>, <i>Alice Balayan</i>, <i>Michael J Munje</i>, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
     <br />
     IEEE International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021
   </li>
@@ -77,7 +77,7 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
       </a>
     </b>
     <br />
-    Kyle Dewey, <b>Shant Hairapetian</b>, Miroslav Gavrilov
+    Kyle Dewey, <i>Shant Hairapetian</i>, Miroslav Gavrilov
     <br />
     IEEE International Conference on Software Testing, Verification and Validation (ICST), 2020
   </li>
