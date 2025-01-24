@@ -2,6 +2,8 @@
 
 Welcome to the Testing and Validation lab!
 We are concerned primarily with software testing, validation, and verification; that is, finding bugs and making software more robust.
+The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
+(Possibly former) CSUN student co-authors are shown below in <b>bold</b>.
 
 # Publications
 
@@ -11,7 +13,7 @@ We are concerned primarily with software testing, validation, and verification; 
       Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
     </b>
     <br />
-    Sarah Canto Hyatt, <b>Kyle Dewey</b>
+    <b>Sarah Canto Hyatt</b>, Kyle Dewey
     <br />
     IEEE International Conference on Software Testing, Verification and Validation (ICST), 2025 (to appear)
     </li>
@@ -20,7 +22,7 @@ We are concerned primarily with software testing, validation, and verification; 
         MLGTT: An Open-Source Tool to Generate Camera-Relative Ground Truth for Monocular Localization
       </b>
       <br />
-      Jorge Enriquez, Tu-Hoa Pham, Philip Bailey, <b>Kyle Dewey</b>
+      <b>Jorge Enriquez</b>, Tu-Hoa Pham, Philip Bailey, Kyle Dewey
       <br />
       IEEE Aerospace Conference (AeroConf), 2025 (to appear)
     </li>
@@ -31,7 +33,7 @@ We are concerned primarily with software testing, validation, and verification; 
           </a>
         </b>
         <br />
-        Mehmet Emre, Peter Boyland, Aesha Parekh, Ryan Schroeder, <b>Kyle Dewey</b>, and Ben Hardekopf
+        Mehmet Emre, Peter Boyland, Aesha Parekh, Ryan Schroeder, Kyle Dewey, and Ben Hardekopf
         <br />
         ACM Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2023
       </li>
@@ -42,7 +44,7 @@ We are concerned primarily with software testing, validation, and verification; 
       </a>
     </b>
     <br />
-    Mehmet Emre, Ryan Schroeder, <b>Kyle Dewey</b>, Ben Hardekopf
+    Mehmet Emre, Ryan Schroeder, Kyle Dewey, Ben Hardekopf
     <br />
     ACM Object-oriented Programming, Systems, Languages, and Applications (OOPSLA), 2021
   </li>
@@ -53,7 +55,7 @@ We are concerned primarily with software testing, validation, and verification; 
       </a>
     </b>
     <br />
-    Brian McClelland, Daniel Tellier, Meyer Millman, Kate Beatrix Go, Alice Balayan, Michael J Munje, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
+    <b>Brian McClelland</b>, <b>Daniel Tellier</b>, <b>Meyer Millman</b>, <b>Kate Beatrix Go</b>, <b>Alice Balayan</b>, <b>Michael J Munje</b>, Kyle Dewey, Nhut Ho, Klaus Havelund, Michel Ingham
     <br />
     IEEE International Conference on Space Mission Challenges for Information Technology (SMC-IT), 2021
   </li>
@@ -75,7 +77,7 @@ We are concerned primarily with software testing, validation, and verification; 
       </a>
     </b>
     <br />
-    Kyle Dewey, Shant Hairapetian, Miroslav Gavrilov
+    Kyle Dewey, <b>Shant Hairapetian</b>, Miroslav Gavrilov
     <br />
     IEEE International Conference on Software Testing, Verification and Validation (ICST), 2020
   </li>
@@ -91,39 +93,3 @@ We are concerned primarily with software testing, validation, and verification; 
     ACM/IEEE International Symposium on Computer Architecture (ISCA), 2019
   </li>
 </ul>
-
-# People
-
-Lab head: [Prof. Kyle Dewey](https://kyledewey.github.io/)
-
-## Masters Students ##
-
-- [Brian McClelland](https://github.com/bmcclelland)
-- [Michael Munje](https://michaelmunje.com/about/)
-- [Edward Olmos](https://www.linkedin.com/in/edward-olmos/)
-- [Eduardo Preciado](https://www.linkedin.com/in/eduardopreciado/)
-
-## Undergraduate Students ##
-
-- Joshua Alvarado
-- Alisiya Balayan
-- Geovanni Bisono
-- [Simran Gill](https://www.linkedin.com/in/simran-k-gill/)
-- Kate Go
-- [Kavya Manohar](https://github.com/Kavya-Manohar)
-- Meyer Millman
-- [Eileen Quiroz](https://www.linkedin.com/in/eileen-quiroz-084638170)
-- [Nuelbella Sandoval](https://www.linkedin.com/in/nuelbella-sandoval-ba184b169)
-- [Frank Serdenia](http://www.linkedin.com/in/frankjosephserdenia)
-- [Daniel Tellier](https://www.linkedin.com/in/daniel-tellier-210ab3a4/)
-
-## Past Students ##
-
-- [Hekmat Barbar (BS)](https://www.linkedin.com/in/hekmat-barbar-26652282/)
-- [Angelica Flores (BS)](https://www.linkedin.com/in/angelicagflores/)
-- [Mario Garcia (BS)](https://www.linkedin.com/in/mario-garcia-61a222171/)
-- [Liad Golan (BS)](https://www.linkedin.com/in/liadgolan/)
-- [Shant Hairapetian (BS)](https://www.linkedin.com/in/shant-hairapetian-27b498166/)
-- [Tom Perez (BS)](https://www.researchgate.net/profile/Tom_Perez2)
-- Victor Pineda (BS)
-- [Alexis Siguenza (BS)](https://www.linkedin.com/in/alexis-siguenza-763bb0172/)
