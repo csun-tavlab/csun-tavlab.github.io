@@ -10,7 +10,9 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
 <ul>
   <li>
     <b>
-      Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
+      <a href="icst25.pdf">
+        Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
+      </a>
     </b>
     <br />
     <i>Sarah Canto Hyatt</i>, Kyle Dewey
