@@ -17,7 +17,7 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
     <br />
     <i>Sarah Canto Hyatt</i>, Kyle Dewey
     <br />
-    IEEE International Conference on Software Testing, Verification and Validation (ICST), 2025 (to appear)
+    IEEE International Conference on Software Testing, Verification and Validation (ICST), 2025
     </li>
     <li>
       <b>
