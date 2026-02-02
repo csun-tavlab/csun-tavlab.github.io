@@ -17,6 +17,17 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
   </li>
   <li>
     <b>
+      <a href="cscsu25.pdf">
+        Iterator-Based Parser Combinators for Ambiguous Grammars
+      </a>
+    </b>
+    <br />
+    Param Desai, Devaansh Mann, <b>Kyle Dewey</b>
+    <br />
+    Computer Science Conference for CSU Undergraduates (CSCSU), 2025
+  </li>
+  <li>
+    <b>
       <a href="icst25.pdf">
         Mutation-based Fuzzing of the Swift Compiler With Incomplete Type Information
       </a>
