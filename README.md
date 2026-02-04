@@ -9,13 +9,6 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
 
 <ul>
   <li>
-    <b>Breccia: A Functional DSL Compiled to Egglog for Test Input Generation</b>
-    <br />
-    Peter Boyland, Sarah Canto Hyatt, <b>Kyle Dewey</b>, Ben Hardekopf
-    <br />
-    ACM International Symposium on Functional and Logic Programming (FLOPS), 2026 (to appear)
-  </li>
-  <li>
     <b>
       <a href="cscsu25.pdf">
         Iterator-Based Parser Combinators for Ambiguous Grammars
