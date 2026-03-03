@@ -8,6 +8,20 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
 # Publications
 
 <ul>
+      <li>
+        <b>Breccia: A Functional DSL Compiled to Egglog for Test Input Generation</b>
+        <br />
+        Peter Boyland, <i>Sarah Canto Hyatt</i>, <b>Kyle Dewey</b>, Ben Hardekopf
+        <br />
+        ACM International Symposium on Functional and Logic Programming (FLOPS), 2026 (to appear)
+      </li>
+      <li>
+        <b>Mutation-Based Fuzzer for the Swift Compiler</b>
+        <br />
+        <i>Sarah Canto Hyatt</i>, <b>Kyle Dewey</b>
+        <br />
+        Science of Computer Programming, Software Track (Elsevier Journal), 2026 (to appear)
+      </li>
   <li>
     <b>
       <a href="cscsu25.pdf">
@@ -15,7 +29,7 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
       </a>
     </b>
     <br />
-    Param Desai, Devaansh Mann, <b>Kyle Dewey</b>
+    <i>Param Desai</i>, <i>Devaansh Mann</i>, <b>Kyle Dewey</b>
     <br />
     Computer Science Conference for CSU Undergraduates (CSCSU), 2025
   </li>
@@ -32,12 +46,14 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
     </li>
     <li>
       <b>
-        MLGTT: An Open-Source Tool to Generate Camera-Relative Ground Truth for Monocular Localization
+        <a href="https://ieeexplore.ieee.org/document/11068459">
+          MLGTT: An Open-Source Tool to Generate Camera-Relative Ground Truth for Monocular Localization
+        </a>
       </b>
       <br />
       <i>Jorge Enriquez</i>, Tu-Hoa Pham, Philip Bailey, Kyle Dewey
       <br />
-      IEEE Aerospace Conference (AeroConf), 2025 (to appear)
+      IEEE Aerospace Conference (AeroConf), 2025
     </li>
     <li>
         <b>
