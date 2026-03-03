@@ -16,11 +16,15 @@ The lab is headed by [Prof. Kyle Dewey](https://kyledewey.github.io/).
         ACM International Symposium on Functional and Logic Programming (FLOPS), 2026 (to appear)
       </li>
       <li>
-        <b>Mutation-Based Fuzzer for the Swift Compiler</b>
+        <b>
+          <a href="https://www.sciencedirect.com/science/article/pii/S0167642326000316">
+            Mutation-Based Fuzzer for the Swift Compiler
+          </a>
+        </b>
         <br />
         <i>Sarah Canto Hyatt</i>, <b>Kyle Dewey</b>
         <br />
-        Science of Computer Programming, Software Track (Elsevier Journal), 2026 (to appear)
+        Science of Computer Programming, Software Track (Elsevier Journal), 2026
       </li>
   <li>
     <b>
